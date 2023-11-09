@@ -23,7 +23,7 @@ const Footer = () => {
         <p className={classes.ribbontext}>&#x1F469;&#x200D;&#x1F373; - <a href="">Join Our Team! </a></p>
         <p className={classes.ribbontext}>&#x1F4CD; - <a href="">Cape Town, South Africa</a></p>
         <p className={classes.ribbontext}>&#x1F4DE; - <a href="">+27 12 345 6789</a></p>
-        <p className={classes.ribbontext}>&#x1F6CD;&#xFE0F;; - <a href="">Shop Now</a></p>
+        <p className={classes.ribbontext}>&#x1F6CD;&#xFE0F; - <a href="">Shop Now</a></p>
       </div>
     </div>
   );
